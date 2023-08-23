@@ -47,7 +47,15 @@ The analysis is primarily conducted using Python programming language. Various d
 
 The machine learning component of this research focuses on both supervised and unsupervised learning techniques:
 We add featuring new metrics like 'Gaze Duration', 'Fixation Count', and 'Saccade Velocity'.
-In our comprehensive analysis of gaze dynamics and empathy, we evaluated a total of seven machine-learning models,
+In our comprehensive analysis of gaze dynamics and empathy, we evaluated a total of seven machine-learning models.
+
+A deep study was conducted using different algorithms using the machine learning and deep learning and all the results are summarized perfactly in the report. 
+
+Type of ML and DL algorithms that are used in it.
+1. Finding the correlation matrix to find the nuber of correlated features with the target variable.
+2. Using the unsupervised learning to find the optimal number of cluster which can provide us more insights into empathy score.
+3. Next we have used the neural network using the keras api on the top of tensorflow.
+4. we have used to RRN_GRU to find the classification task with getting the resonable accuracy.
 
 ### Conclusion and Key Takeaways
 
